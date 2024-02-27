@@ -1,1 +1,6 @@
 /.idea/
+/src/*.o
+/src/linux/executables/
+/src/linux/object-files/
+/src/win/executables/
+/src/win/object-files/
