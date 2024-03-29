@@ -169,3 +169,4 @@ The process through which the processor controls the execution of instructions i
 - Decoding or identifying the instruction
 - Executing the instruction
 
+## Basic Syntax
